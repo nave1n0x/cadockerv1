@@ -4,7 +4,7 @@ Here
 
 1->use docker-compose build (build the yml file)
 
-1->and docker-compsoe up to run the container
+2->and docker-compsoe up to run the container
 
 3->after building
 
