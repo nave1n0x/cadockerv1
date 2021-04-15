@@ -4,7 +4,7 @@ Here
 
 1->use docker-compose build (build the yml file)
 
-2->and docker-compsoe up to run the container
+2->and docker-compose up to run the container
 
 3->after building
 
@@ -12,5 +12,5 @@ Here
 
 5->then go to http://localhost:30001 --> then you see the hotel page is working now
 
-6->then got to http://localhost:30001/admin --> login with the these details -> userame -> janobe --- password -> janobe and you can see the booking details and other info
+6->then got to http://localhost:30001/admin --> login with the these details -> username -> janobe --- password -> janobe and you can see the booking details and other info
 
