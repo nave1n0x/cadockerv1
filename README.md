@@ -8,7 +8,7 @@ Here
 
 3->after building
 
-4->go to http://localhost:30002/  --> you will go to phpmyadmin then enter username->naveenkumar pasword->11903371 then go to ca_db database and import the sql file from www folder
+4->go to http://localhost:30002/  --> you will go to phpmyadmin then enter username->naveenkumar password->11903371 then go to ca_db database and import the sql file from www folder
 
 5->then go to http://localhost:30001 --> then you see the hotel page is working now
 
